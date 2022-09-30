@@ -1,0 +1,3 @@
+﻿  starprinter.cpp
+C:\Users\Вячеслав\source\repos\Project2\Project2\starprinter.cpp(9,19): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+  Project2.vcxproj -> C:\Users\Вячеслав\source\repos\Project2\x64\Debug\Project2.exe
